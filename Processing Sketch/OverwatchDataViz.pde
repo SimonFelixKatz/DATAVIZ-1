@@ -17,8 +17,8 @@ void draw() {
   
  
   
-  // turn on to start rendering
-  //saveFrame("output/ow_####.png");
+  
+  saveFrame("output/ow_####.png");
 }
 
 
