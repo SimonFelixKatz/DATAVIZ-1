@@ -8,7 +8,7 @@ Software: Processing
 Final Render: https://www.youtube.com/watch?v=2gSZ6gPNa-Q
 
 
-Concept: Vizualising all my inputs when playing Overwatch. (Mouse and Keyboard)
+Concept: Visualizing all my inputs when playing Overwatch. (Mouse and Keyboard)
 
 Step 1 : Record Mouse and Keyboard data
 	- Software used ( MouseRecorder)
